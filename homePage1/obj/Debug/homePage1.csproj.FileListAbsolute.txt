@@ -1,0 +1,335 @@
+E:\study\University\9th semester\OOP-2\Project\Code\part-1\finalProject(.Net Framework)\homePage1\bin\Debug\homePage1.exe.config
+E:\study\University\9th semester\OOP-2\Project\Code\part-1\finalProject(.Net Framework)\homePage1\bin\Debug\homePage1.exe
+E:\study\University\9th semester\OOP-2\Project\Code\part-1\finalProject(.Net Framework)\homePage1\bin\Debug\homePage1.pdb
+E:\study\University\9th semester\OOP-2\Project\Code\part-1\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.AssemblyReference.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-1\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.Form1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-1\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.Properties.Resources.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-1\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.GenerateResource.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-1\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.CoreCompileInputs.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-1\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.exe
+E:\study\University\9th semester\OOP-2\Project\Code\part-1\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.pdb
+C:\Users\Ovi\Desktop\finalProject(.Net Framework)\homePage1\bin\Debug\homePage1.exe.config
+C:\Users\Ovi\Desktop\finalProject(.Net Framework)\homePage1\bin\Debug\homePage1.exe
+C:\Users\Ovi\Desktop\finalProject(.Net Framework)\homePage1\bin\Debug\homePage1.pdb
+C:\Users\Ovi\Desktop\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.AssemblyReference.cache
+C:\Users\Ovi\Desktop\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.Form1.resources
+C:\Users\Ovi\Desktop\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.Properties.Resources.resources
+C:\Users\Ovi\Desktop\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.GenerateResource.cache
+C:\Users\Ovi\Desktop\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.CoreCompileInputs.cache
+C:\Users\Ovi\Desktop\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.exe
+C:\Users\Ovi\Desktop\finalProject(.Net Framework)\homePage1\obj\Debug\homePage1.pdb
+E:\study\University\9th semester\OOP-2\Project\Code\part-2\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe.config
+E:\study\University\9th semester\OOP-2\Project\Code\part-2\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe
+E:\study\University\9th semester\OOP-2\Project\Code\part-2\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.pdb
+E:\study\University\9th semester\OOP-2\Project\Code\part-2\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.AssemblyReference.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-2\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.Form1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-2\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.Properties.Resources.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-2\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.GenerateResource.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-2\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.CoreCompileInputs.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-2\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.exe
+E:\study\University\9th semester\OOP-2\Project\Code\part-2\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.pdb
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe.config
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.pdb
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.AssemblyReference.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomePage1Form1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.Properties.Resources.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ServicesPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.GenerateResource.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.CoreCompileInputs.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.exe
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.pdb
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.LoginPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.RegistrationPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.WebDevelopmentPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.GraphicsDesignPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeTutorPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HandiCraftPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.DressDesignPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeMaidPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-3\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJoeForm1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe.config
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.pdb
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.AssemblyReference.cache
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.DressDesignPageForm1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.GraphicsDesignPageForm1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HandiCraftPageForm1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeMaidPageForm1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomePage1Form1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeTutorPageForm1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.LoginPageForm1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJoeForm1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.Properties.Resources.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.RegistrationPageForm1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ServicesPageForm1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.WebDevelopmentPageForm1.resources
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.GenerateResource.cache
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.CoreCompileInputs.cache
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.exe
+C:\Users\Ovi\Desktop\finalProject-p3(.Net Framework)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.pdb
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe.config
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.pdb
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.AssemblyReference.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.DressDesignPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.GraphicsDesignPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HandiCraftPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeMaidPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomePage1Form1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeTutorPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.LoginPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJoeForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.Properties.Resources.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.RegistrationPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ServicesPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.WebDevelopmentPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.GenerateResource.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.CoreCompileInputs.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.exe
+E:\study\University\9th semester\OOP-2\Project\Code\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.pdb
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe.config
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.pdb
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.AssemblyReference.cache
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.DressDesignPageForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.GraphicsDesignPageForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HandiCraftPageForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeMaidPageForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomePage1Form1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeTutorPageForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.LoginPageForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJoeForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.Properties.Resources.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.RegistrationPageForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ServicesPageForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.WebDevelopmentPageForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.GenerateResource.cache
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.CoreCompileInputs.cache
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.exe
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.pdb
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebYelisForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebBobForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebFinleyForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJordenForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebMariaForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsSarfForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsAmberForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsHarisForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsJaydaForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsLisanForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorCharlesForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorThomasForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorJaxonForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsJacksonForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsLeviForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsRoseForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsSiennaForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorAlysonForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorPhillipForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorSammuelForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressKatalieForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressKateForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressLiaForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressNartimForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressSarahForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidLiamForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidMarkForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidJoeForm1.resources
+C:\Users\Ovi\Desktop\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidKallieForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe.config
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.pdb
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.DressDesignPageForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.GraphicsDesignPageForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HandiCraftPageForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeMaidPageForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomePage1Form1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeTutorPageForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.LoginPageForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressKatalieForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressKateForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressLiaForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressNartimForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressSarahForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsAmberForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsHarisForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsJaydaForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsLisanForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsSarfForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsJacksonForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsLeviForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsRoseForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsSiennaForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidJoeForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidKallieForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidLiamForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidMarkForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorAlysonForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorCharlesForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorJaxonForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorPhillipForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorSammuelForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorThomasForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebBobForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebFinleyForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJoeForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJordenForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebMariaForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebYelisForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.Properties.Resources.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.RegistrationPageForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ServicesPageForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.WebDevelopmentPageForm1.resources
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.exe
+C:\Users\asus\Downloads\part-5(database setup ufter group meeting)\part-5(database setup ufter group meeting)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.pdb
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe.config
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.pdb
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.AssemblyReference.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.DressDesignPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.GraphicsDesignPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HandiCraftPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeMaidPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomePage1Form1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeTutorPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.LoginPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressKatalieForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressKateForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressLiaForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressNartimForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressSarahForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsAmberForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsHarisForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsJaydaForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsLisanForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsSarfForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsJacksonForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsLeviForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsRoseForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsSiennaForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidJoeForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidKallieForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidLiamForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidMarkForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorAlysonForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorCharlesForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorJaxonForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorPhillipForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorSammuelForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorThomasForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebBobForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebFinleyForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJoeForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJordenForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebMariaForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebYelisForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.Properties.Resources.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.RegistrationPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ServicesPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.WebDevelopmentPageForm1.resources
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.GenerateResource.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.CoreCompileInputs.cache
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.exe
+E:\study\University\9th semester\OOP-2\Project\Code\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.pdb
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe.config
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.pdb
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.AssemblyReference.cache
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.DressDesignPageForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.GraphicsDesignPageForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HandiCraftPageForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeMaidPageForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomePage1Form1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeTutorPageForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.LoginPageForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressKatalieForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressKateForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressLiaForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressNartimForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressSarahForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsAmberForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsHarisForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsJaydaForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsLisanForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsSarfForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsJacksonForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsLeviForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsRoseForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsSiennaForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidJoeForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidKallieForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidLiamForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidMarkForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorAlysonForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorCharlesForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorJaxonForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorPhillipForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorSammuelForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorThomasForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebBobForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebFinleyForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJoeForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJordenForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebMariaForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebYelisForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.Properties.Resources.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.RegistrationPageForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ServicesPageForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.WebDevelopmentPageForm1.resources
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.GenerateResource.cache
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.CoreCompileInputs.cache
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.exe
+C:\Users\Ovi\Desktop\part-6(Finally Ready-2)\part-6(Finally Ready)\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.pdb
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe.config
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.exe
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\bin\Debug\homePage1.pdb
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.AssemblyReference.cache
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.DressDesignPageForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.GraphicsDesignPageForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HandiCraftPageForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeMaidPageForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomePage1Form1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.HomeTutorPageForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.LoginPageForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressKatalieForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressKateForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressLiaForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressNartimForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileDressSarahForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsAmberForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsHarisForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsJaydaForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsLisanForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileGraphicsSarfForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsJacksonForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsLeviForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsRoseForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileHandiCraftsSiennaForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidJoeForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidKallieForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidLiamForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileMaidMarkForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorAlysonForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorCharlesForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorJaxonForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorPhillipForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorSammuelForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileTutorThomasForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebBobForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebFinleyForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJoeForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebJordenForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebMariaForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ProfileWebYelisForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.Properties.Resources.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.RegistrationPageForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.ServicesPageForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.WebDevelopmentPageForm1.resources
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.GenerateResource.cache
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.csproj.CoreCompileInputs.cache
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.exe
+C:\Users\Ovi\Desktop\Service Basket Project\Service Basket Project\finalProject-2(.Net Framework)\homePage1\obj\Debug\homePage1.pdb

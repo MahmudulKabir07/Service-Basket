@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0B0E813E-823F-4AB0-99C3-D234CE44D687}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>homePage1</RootNamespace>
+    <AssemblyName>homePage1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DressDesignPageForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DressDesignPageForm1.Designer.cs">
+      <DependentUpon>DressDesignPageForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GraphicsDesignPageForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraphicsDesignPageForm1.Designer.cs">
+      <DependentUpon>GraphicsDesignPageForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HandiCraftPageForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HandiCraftPageForm1.Designer.cs">
+      <DependentUpon>HandiCraftPageForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeMaidPageForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeMaidPageForm1.Designer.cs">
+      <DependentUpon>HomeMaidPageForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage1Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage1Form1.Designer.cs">
+      <DependentUpon>HomePage1Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeTutorPageForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeTutorPageForm1.Designer.cs">
+      <DependentUpon>HomeTutorPageForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPageForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPageForm1.Designer.cs">
+      <DependentUpon>LoginPageForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileDressKatalieForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileDressKatalieForm1.Designer.cs">
+      <DependentUpon>ProfileDressKatalieForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileDressKateForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileDressKateForm1.Designer.cs">
+      <DependentUpon>ProfileDressKateForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileDressLiaForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileDressLiaForm1.Designer.cs">
+      <DependentUpon>ProfileDressLiaForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileDressNartimForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileDressNartimForm1.Designer.cs">
+      <DependentUpon>ProfileDressNartimForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileDressSarahForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileDressSarahForm1.Designer.cs">
+      <DependentUpon>ProfileDressSarahForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileGraphicsAmberForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileGraphicsAmberForm1.Designer.cs">
+      <DependentUpon>ProfileGraphicsAmberForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileGraphicsHarisForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileGraphicsHarisForm1.Designer.cs">
+      <DependentUpon>ProfileGraphicsHarisForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileGraphicsJaydaForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileGraphicsJaydaForm1.Designer.cs">
+      <DependentUpon>ProfileGraphicsJaydaForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileGraphicsLisanForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileGraphicsLisanForm1.Designer.cs">
+      <DependentUpon>ProfileGraphicsLisanForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileGraphicsSarfForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileGraphicsSarfForm1.Designer.cs">
+      <DependentUpon>ProfileGraphicsSarfForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileHandiCraftsJacksonForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileHandiCraftsJacksonForm1.Designer.cs">
+      <DependentUpon>ProfileHandiCraftsJacksonForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileHandiCraftsLeviForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileHandiCraftsLeviForm1.Designer.cs">
+      <DependentUpon>ProfileHandiCraftsLeviForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileHandiCraftsRoseForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileHandiCraftsRoseForm1.Designer.cs">
+      <DependentUpon>ProfileHandiCraftsRoseForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileHandiCraftsSiennaForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileHandiCraftsSiennaForm1.Designer.cs">
+      <DependentUpon>ProfileHandiCraftsSiennaForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileMaidJoeForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileMaidJoeForm1.Designer.cs">
+      <DependentUpon>ProfileMaidJoeForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileMaidKallieForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileMaidKallieForm1.Designer.cs">
+      <DependentUpon>ProfileMaidKallieForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileMaidLiamForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileMaidLiamForm1.Designer.cs">
+      <DependentUpon>ProfileMaidLiamForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileMaidMarkForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileMaidMarkForm1.Designer.cs">
+      <DependentUpon>ProfileMaidMarkForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileTutorAlysonForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileTutorAlysonForm1.Designer.cs">
+      <DependentUpon>ProfileTutorAlysonForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileTutorCharlesForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileTutorCharlesForm1.Designer.cs">
+      <DependentUpon>ProfileTutorCharlesForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileTutorJaxonForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileTutorJaxonForm1.Designer.cs">
+      <DependentUpon>ProfileTutorJaxonForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileTutorPhillipForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileTutorPhillipForm1.Designer.cs">
+      <DependentUpon>ProfileTutorPhillipForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileTutorSammuelForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileTutorSammuelForm1.Designer.cs">
+      <DependentUpon>ProfileTutorSammuelForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileTutorThomasForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileTutorThomasForm1.Designer.cs">
+      <DependentUpon>ProfileTutorThomasForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileWebBobForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileWebBobForm1.Designer.cs">
+      <DependentUpon>ProfileWebBobForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileWebFinleyForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileWebFinleyForm1.Designer.cs">
+      <DependentUpon>ProfileWebFinleyForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileWebJoeForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileWebJoeForm1.Designer.cs">
+      <DependentUpon>ProfileWebJoeForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileWebJordenForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileWebJordenForm1.Designer.cs">
+      <DependentUpon>ProfileWebJordenForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileWebMariaForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileWebMariaForm1.Designer.cs">
+      <DependentUpon>ProfileWebMariaForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfileWebYelisForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfileWebYelisForm1.Designer.cs">
+      <DependentUpon>ProfileWebYelisForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrationPageForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationPageForm1.Designer.cs">
+      <DependentUpon>RegistrationPageForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServicesPageForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServicesPageForm1.Designer.cs">
+      <DependentUpon>ServicesPageForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebDevelopmentPageForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebDevelopmentPageForm1.Designer.cs">
+      <DependentUpon>WebDevelopmentPageForm1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DressDesignPageForm1.resx">
+      <DependentUpon>DressDesignPageForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraphicsDesignPageForm1.resx">
+      <DependentUpon>GraphicsDesignPageForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HandiCraftPageForm1.resx">
+      <DependentUpon>HandiCraftPageForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeMaidPageForm1.resx">
+      <DependentUpon>HomeMaidPageForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage1Form1.resx">
+      <DependentUpon>HomePage1Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeTutorPageForm1.resx">
+      <DependentUpon>HomeTutorPageForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPageForm1.resx">
+      <DependentUpon>LoginPageForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileDressKatalieForm1.resx">
+      <DependentUpon>ProfileDressKatalieForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileDressKateForm1.resx">
+      <DependentUpon>ProfileDressKateForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileDressLiaForm1.resx">
+      <DependentUpon>ProfileDressLiaForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileDressNartimForm1.resx">
+      <DependentUpon>ProfileDressNartimForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileDressSarahForm1.resx">
+      <DependentUpon>ProfileDressSarahForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileGraphicsAmberForm1.resx">
+      <DependentUpon>ProfileGraphicsAmberForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileGraphicsHarisForm1.resx">
+      <DependentUpon>ProfileGraphicsHarisForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileGraphicsJaydaForm1.resx">
+      <DependentUpon>ProfileGraphicsJaydaForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileGraphicsLisanForm1.resx">
+      <DependentUpon>ProfileGraphicsLisanForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileGraphicsSarfForm1.resx">
+      <DependentUpon>ProfileGraphicsSarfForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileHandiCraftsJacksonForm1.resx">
+      <DependentUpon>ProfileHandiCraftsJacksonForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileHandiCraftsLeviForm1.resx">
+      <DependentUpon>ProfileHandiCraftsLeviForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileHandiCraftsRoseForm1.resx">
+      <DependentUpon>ProfileHandiCraftsRoseForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileHandiCraftsSiennaForm1.resx">
+      <DependentUpon>ProfileHandiCraftsSiennaForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileMaidJoeForm1.resx">
+      <DependentUpon>ProfileMaidJoeForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileMaidKallieForm1.resx">
+      <DependentUpon>ProfileMaidKallieForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileMaidLiamForm1.resx">
+      <DependentUpon>ProfileMaidLiamForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileMaidMarkForm1.resx">
+      <DependentUpon>ProfileMaidMarkForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileTutorAlysonForm1.resx">
+      <DependentUpon>ProfileTutorAlysonForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileTutorCharlesForm1.resx">
+      <DependentUpon>ProfileTutorCharlesForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileTutorJaxonForm1.resx">
+      <DependentUpon>ProfileTutorJaxonForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileTutorPhillipForm1.resx">
+      <DependentUpon>ProfileTutorPhillipForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileTutorSammuelForm1.resx">
+      <DependentUpon>ProfileTutorSammuelForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileTutorThomasForm1.resx">
+      <DependentUpon>ProfileTutorThomasForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileWebBobForm1.resx">
+      <DependentUpon>ProfileWebBobForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileWebFinleyForm1.resx">
+      <DependentUpon>ProfileWebFinleyForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileWebJoeForm1.resx">
+      <DependentUpon>ProfileWebJoeForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileWebJordenForm1.resx">
+      <DependentUpon>ProfileWebJordenForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileWebMariaForm1.resx">
+      <DependentUpon>ProfileWebMariaForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfileWebYelisForm1.resx">
+      <DependentUpon>ProfileWebYelisForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RegistrationPageForm1.resx">
+      <DependentUpon>RegistrationPageForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServicesPageForm1.resx">
+      <DependentUpon>ServicesPageForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebDevelopmentPageForm1.resx">
+      <DependentUpon>WebDevelopmentPageForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
